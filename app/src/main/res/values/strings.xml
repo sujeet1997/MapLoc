@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MapLoc</string>
+
+    <string name="capture_current_location">Capture Current Location</string>
+    <string name="customer_not_found">Customer not found!</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_valid_mobile_no">Enter a valid mobile number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="select_dob">Select DOB</string>
+    <string name="enter_password">Enter password</string>
+    <string name="re_enter_password">Re-Enter password</string>
+    <string name="please_enter_6_digit_password">Please enter 6 digit password!</string>
+    <string name="password_mismatch">Password mismatch !</string>
+    <string name="please_select_customer_type">Please select customer type !</string>
+    <string name="something_went_wrong">Something went wrong please try again later!</string>
+    <string name="incorrect_username_passw">Invalid child username &amp; password!</string>
+    <string name="invalid_parent_credential">Invalid parent username &amp; password!</string>
+
+</resources>

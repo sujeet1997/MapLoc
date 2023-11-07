@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardBackgroundColor="@color/colorAccent">
+
+
+    <TextView
+        android:id="@+id/item_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:textSize="14sp"
+        android:singleLine="true"
+        android:lines="1"
+        android:layout_marginStart="8dp"
+        android:text=""
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:textColor="@color/black" />
+
+</LinearLayout>
